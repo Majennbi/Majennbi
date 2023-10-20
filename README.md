@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/benjamin-michel/](https://www.linkedin.com/in/benjamin-michel/)
 
-Sorry but a lot of my repos are private for business matters...
+Please note : A lot of my repos are private for confidential matters...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
