@@ -24,5 +24,4 @@ Please note : A lot of my repos are private for confidential matters...
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majennbi&show_icons=true&locale=en&layout=compact" alt="majennbi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majennbi&show_icons=true&locale=en" alt="majennbi" /></p>
 
