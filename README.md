@@ -26,4 +26,3 @@ Please note : A lot of my repos are private for confidential matters...
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majennbi&show_icons=true&locale=en" alt="majennbi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=majennbi&" alt="majennbi" /></p>
