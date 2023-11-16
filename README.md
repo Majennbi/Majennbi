@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majennbi&label=Profile%20views&color=0e75b6&style=flat" alt="majennbi" /> </p>
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **Symfony, JavaScript and CSS**
+- 💬 Ask me about **Symfony and React**
 
 - 📫 How to reach me **benjamin@up404.fr**
 
